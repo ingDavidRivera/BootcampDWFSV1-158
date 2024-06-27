@@ -1,0 +1,30 @@
+/* Elemento tipo selector */
+H1{
+    color:blueviolet;
+    font-family: Helvetica;
+}
+
+/* Selector de clase */
+.highlight{
+    background-color: cornflowerblue;
+}
+
+/* Selector de identidad */
+#footer{
+    background-color: mediumpurple;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Selector universal */
+*{
+    margin: 3px;
+    padding: 3px;
+}
+
+/* Selectores de agrupación */
+h2,h3{
+    text-align: center;
+    color: gold;
+}
